@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meet</h1>
 <h3 align="center">A feverish Student from India</h3>
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="meetrajpal" height=500 width=100%>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetrajpal&label=Profile%20views&color=0e75b6&style=flat" alt="meetrajpal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetrajpal" alt="meetrajpal" /></a> </p>
@@ -14,7 +14,7 @@
 - 💬 Ask me about **C, C++, JAVA, VB.NET, PYTHON, PHP**
 
 - 📫 How to reach me **www.imature0987@gmail.com**
-
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="meetrajpal" width="400" align="right">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/mr.meet.rajpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.meet.rajpal" height="30" width="40" /></a>

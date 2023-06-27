@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C, C++, JAVA, VB.NET, PYTHON, PHP**
 
-- 📫 How to reach me **www.imature0987@gmail.com**
+- 📫 How to reach me **meetrajpal.linkedin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

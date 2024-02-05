@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetrajpal" alt="meetrajpal" /></a> </p>
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="meetrajpal" width="400" align="right">
-- 🔭 I’m currently working on **AR Clothing Store**
-
-- 🌱 I’m currently learning **AIML,**
-
-- 🤝 I’m looking for help with **AR Clothing Store**
 
 - 💬 Ask me about **C, C++, JAVA, VB.NET, PYTHON, PHP**
 

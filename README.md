@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://instagram.com/@mr.meet_rajpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mr.meet_rajpal" height="30" width="40" /></a>
 <a href="https://fb.com/mr.meet.rajpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.meet.rajpal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/meetrajpal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="mr.meet.rajpal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meetrajpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meetrajpal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

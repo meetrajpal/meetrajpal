@@ -1,4 +1,4 @@
-<h1>Software Developer Intern | Freelance Software Engineer | 5⭐@freelancer.com | Student</h1>
+<h1 align="center">Software Developer Intern | Freelance Software Engineer | 5⭐@freelancer.com | Student</h1>
 
 <h3 align="center">✨ Creating and solving bugs since 2020</h3>
 

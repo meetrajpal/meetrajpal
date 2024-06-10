@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **meetrajpal.linkedin@gmail.com**
 
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="meetrajpal" width="400" align="right">
+<img src="https://github.com/meetrajpal/meetrajpal/blob/main/animation-1718012600196_28fd4400.gif" alt="meetrajpal" width="400" align="right">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

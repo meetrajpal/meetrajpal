@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Meet</h1>
-<h3 align="center">A Freelance Software Developer and a Student from Gujarat, India</h3>
+<h1 align="center">Software Developer Intern | Freelance Software Engineer | 5⭐@freelancer.com | Student</h1>
+<h3 align="center">✨ Creating and solving bugs since 2020</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetrajpal&label=Profile%20views&color=0e75b6&style=flat" alt="meetrajpal" /> </p>
 

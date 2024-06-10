@@ -6,8 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetrajpal" alt="meetrajpal" /></a> </p>
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="meetrajpal" width="400" align="right">
 
-- 💬 Ask me about **C, C++, JAVA, VB.NET, PYTHON, PHP**
-
 - 📫 How to reach me **meetrajpal.linkedin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
